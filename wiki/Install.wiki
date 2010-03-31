@@ -2,8 +2,8 @@ Bookmarklets are links you add to your browser's Bookmarks Toolbar.
 
 ==Firefox, Chrome, Safari, Opera==
 
-  # See [http://0x564242.me install]!!
+  # See [http://0x564242.me/2010/03/31/twitbol-insert-symbols-in-twitter-status-box-easily/ install!!]
 
 ==Internet Explorer==
 
-  # See [http://0x564242.me install]!!
+  # See [http://0x564242.me/2010/03/31/twitbol-insert-symbols-in-twitter-status-box-easily/ install!!]
