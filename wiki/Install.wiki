@@ -1,11 +1,11 @@
 Bookmarklets are links you add to your browser's Bookmarks Toolbar. 
 
-Firefox, Chrome, Safari, Opera
+==Firefox, Chrome, Safari, Opera==
 
-* Make sure the "Bookmarks Toolbar" is visible.
-* Drag this link: [TwitBol] up to your Bookmarks Toolbar.
+  # Make sure the "Bookmarks Toolbar" is visible.
+  # Drag this link: [TwitBol] up to your Bookmarks Toolbar.
 
-Internet Explorer
+==Internet Explorer==
 
-* Make sure the "Bookmarks Toolbar" is visible.
-* Right click [TwitBol] and click "Add to Favorites"
+  # Make sure the "Bookmarks Toolbar" is visible.
+  # Right click [TwitBol] and click "Add to Favorites".
